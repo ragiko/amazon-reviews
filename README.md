@@ -1,5 +1,3 @@
-#amazon-reviews
-==============
 
 ###Mainly Designed as Amazon Books Reviews parser, but also Parses other Amazon Products effeciently.
 
@@ -15,3 +13,4 @@ to install these gems
 gem install nokogiri
 gem install openurl
 ```
+
